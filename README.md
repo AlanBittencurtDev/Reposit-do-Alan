@@ -1,3 +1,2 @@
-# Repositório do Alan!
- 
-Meu primeiro repositório no github 
+# projeto-site
+ Projeto de um site criado durante o curso de Git e GitHub
