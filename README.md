@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanBittencurtDev&color=blue" alt="Profile views" /> 
 </p>
 
-## :fire:  My first repository on github
+## :fire:  My first repository on github!
  
  ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
